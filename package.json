@@ -1,0 +1,16 @@
+{
+  "name": "koa-boilerplate",
+  "version": "1.0.0",
+  "description": "basic koa boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Chris Stanton",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "2.3.0",
+    "koa-router": "7.2.1"
+  }
+}
